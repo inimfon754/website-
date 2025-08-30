@@ -133,4 +133,18 @@
     padding: 15px 0;
     margin-top: 30px;
   }
+  /* About Page */
+.small-hero {
+    height: 40vh;
+  }
+  
+  .about-content {
+    margin: 50px auto;
+    line-height: 1.8;
+  }
+  .about-content h2 {
+    color: #1e3d59;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
   
